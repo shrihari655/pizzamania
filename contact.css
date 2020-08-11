@@ -1,0 +1,58 @@
+.navbar{
+	font-family: 'Poppins', sans-serif;
+	background-color:#095c91 !important;
+	color: #000000;
+	}
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand{
+	font-size:28px;
+	font-weight:bold;
+	color: white !important;
+}
+
+#a a{
+	font-size: 18px;
+	font-weight: 600;
+	color: white !important;
+}
+
+#b{
+	color: white !important;
+	background-color: #0b639c !important;
+}
+
+#a a:hover{
+	font-size: 18px;
+	font-weight: 600;
+	color:red !important;
+}
+
+#hg{
+	font-family: 'Poppins', sans-serif;
+	font-weight:600;
+	background-image: url(dsd.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+	color: white;
+	height: 200px;
+}
+.card{
+	display: inline-block;
+}
+.card h4{
+	background-color:#095c91;
+	color: white;
+	font-weight: bolder;
+	padding: 3px;
+	border-radius: 3px;
+}
+
+#cad h4{
+	background-color: white;
+	color: black;
+}
+

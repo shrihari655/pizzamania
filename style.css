@@ -1,0 +1,144 @@
+.navbar{
+	font-family: 'Poppins', sans-serif;
+	background-color: white !important;
+	color: #000000;
+}
+
+
+#a{
+	color: #ff0000;
+}
+.navbar-brand{
+	font-size: 30px;
+	font-weight:bold;
+}
+
+#b{
+	font-size: 18px;
+	color: #3061df !important;
+	font-weight: bold;
+	opacity: 0.8;
+}
+
+#b:hover{
+	color: black;
+}
+
+#h{
+	background-image: url(g.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 700px;
+}
+
+.hi h2{
+	padding-top: 10px;
+	font-family: 'Merienda', cursive;
+	color: red;
+	margin-top: 50px;
+	background-color:white;
+	opacity: 0.9;
+	width:350px;
+	border-radius: 20px;
+}
+
+.hi h5{
+	padding-top: 20px;
+	color: #617fca;
+	font-family: 'Merienda', cursive;
+	background-color:white;
+	opacity: 0.9;
+	width:320px;
+	border-radius: 20px;
+
+}
+
+#order{
+	color:white;
+	background-color: #0bc004;
+	font-size: 20px;
+	border:none;
+	font-family: 'Merienda', cursive;
+	padding: 4px;
+	border-radius: 3px;
+	outline: none;
+
+}
+#ex{
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+}
+
+.card-title{
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+}
+
+#ca{
+	font-family: 'Poppins', sans-serif;
+	display: inline-block;
+	margin:7px;
+	padding:7px;
+}
+
+#co{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 1000;
+	text-decoration:none;
+}
+
+#cu{
+	display: inline-block;
+}
+
+#cup{
+	display: inline-block;
+	padding: 7px;
+}
+
+#sa{
+	font-family: 'Poppins', sans-serif;
+	color:#436c98;
+	font-weight:600;
+	text-align: center;
+}
+
+.dis{
+	font-family: 'Poppins', sans-serif;
+}
+
+.dis h3{
+	color:#66628b;
+	font-weight:bolder;
+	padding-left:10px;
+}
+
+.dis p{
+	color:#66628b;
+	text-align: justify;
+	padding-left:10px;
+	padding-right: 10px;
+	font-weight: 500;
+	font-size: 17px;
+}
+
+.foot{
+	font-family: 'Poppins', sans-serif;
+	background-color:black;
+	color: white;
+	width: 100%;
+}
+
+#fo{
+	font-family: 'Poppins', sans-serif;
+	display: inline-block;
+	margin: 20px;
+	padding: 3px;
+
+}
+
+.foot a{
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	color: #ede6f7;
+}
